@@ -1,6 +1,6 @@
 Test 1 -
-When running the program using sudo ./Option2, The program will ask if you want to enter of leave
-When entering 1 and "entering" the number of students will increase by 1
+When running the program using sudo ./Option2, The program will ask if you want to enter of leave\n
+When entering 1 and "entering" the number of students will increase by 1\n
 when entering 2 and "leaving" the number of students will decrease by 1
 
 Test 2 -
