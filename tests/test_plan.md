@@ -14,4 +14,4 @@ When the number of students is less than the max capacity, the led will not turn
 When the the number of students is the same as the max capacity, the led will turn on
 
 Test 5 -
-When enter 3 the program in stop running
+When enter 3, the program in stop running
